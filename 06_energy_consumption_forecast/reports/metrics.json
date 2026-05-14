@@ -1,0 +1,15 @@
+{
+  "mae": 11.095151293495007,
+  "rmse": 13.11761380116095,
+  "r2": 0.7866082369845419,
+  "rows": 180,
+  "features": [
+    "outside_temperature",
+    "humidity",
+    "occupancy",
+    "working_day",
+    "equipment_load",
+    "solar_generation",
+    "day_of_week"
+  ]
+}

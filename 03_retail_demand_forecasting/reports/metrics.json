@@ -1,0 +1,15 @@
+{
+  "mae": 21.614463496326895,
+  "rmse": 26.137830957448838,
+  "r2": 0.9829163587430023,
+  "rows": 180,
+  "features": [
+    "price",
+    "promotion",
+    "holiday_week",
+    "store_traffic",
+    "competitor_price",
+    "inventory_level",
+    "week_of_year"
+  ]
+}

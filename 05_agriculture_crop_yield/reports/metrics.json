@@ -1,0 +1,15 @@
+{
+  "mae": 0.3774600042634135,
+  "rmse": 0.45865046516082714,
+  "r2": 0.5436122885277846,
+  "rows": 180,
+  "features": [
+    "rainfall_mm",
+    "avg_temperature",
+    "soil_ph",
+    "nitrogen_level",
+    "phosphorus_level",
+    "pesticide_liters",
+    "irrigation_hours"
+  ]
+}
