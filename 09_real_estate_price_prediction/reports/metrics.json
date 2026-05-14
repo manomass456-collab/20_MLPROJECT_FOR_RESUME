@@ -1,0 +1,15 @@
+{
+  "mae": 32344.872967560397,
+  "rmse": 38297.00362140176,
+  "r2": 0.9288705435397971,
+  "rows": 180,
+  "features": [
+    "area_sqft",
+    "bedrooms",
+    "bathrooms",
+    "age_years",
+    "distance_to_city_km",
+    "school_rating",
+    "crime_index"
+  ]
+}

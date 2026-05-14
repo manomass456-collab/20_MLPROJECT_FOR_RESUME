@@ -1,0 +1,50 @@
+{
+  "accuracy": 0.7,
+  "confusion_matrix": [
+    [
+      12,
+      5
+    ],
+    [
+      7,
+      16
+    ]
+  ],
+  "classification_report": {
+    "0": {
+      "precision": 0.631578947368421,
+      "recall": 0.7058823529411765,
+      "f1-score": 0.6666666666666666,
+      "support": 17.0
+    },
+    "1": {
+      "precision": 0.7619047619047619,
+      "recall": 0.6956521739130435,
+      "f1-score": 0.7272727272727273,
+      "support": 23.0
+    },
+    "accuracy": 0.7,
+    "macro avg": {
+      "precision": 0.6967418546365914,
+      "recall": 0.70076726342711,
+      "f1-score": 0.696969696969697,
+      "support": 40.0
+    },
+    "weighted avg": {
+      "precision": 0.706516290726817,
+      "recall": 0.7,
+      "f1-score": 0.7015151515151514,
+      "support": 40.0
+    }
+  },
+  "rows": 180,
+  "features": [
+    "packet_count",
+    "avg_packet_size",
+    "failed_logins",
+    "connection_duration",
+    "unique_ports",
+    "bytes_transferred",
+    "night_activity"
+  ]
+}

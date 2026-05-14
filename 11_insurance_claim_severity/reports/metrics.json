@@ -1,0 +1,15 @@
+{
+  "mae": 2792.697260874041,
+  "rmse": 3525.3268072767046,
+  "r2": 0.8921293078953911,
+  "rows": 180,
+  "features": [
+    "policy_age_months",
+    "customer_age",
+    "incident_severity",
+    "vehicle_age",
+    "previous_claims",
+    "repair_complexity",
+    "fraud_score"
+  ]
+}
