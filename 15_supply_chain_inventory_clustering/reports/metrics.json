@@ -1,0 +1,18 @@
+{
+  "silhouette_score": 0.11297322211980104,
+  "rows": 180,
+  "features": [
+    "unit_cost",
+    "monthly_demand",
+    "lead_time_days",
+    "stockout_rate",
+    "holding_cost",
+    "supplier_reliability",
+    "demand_variability"
+  ],
+  "cluster_counts": {
+    "0": 58,
+    "1": 78,
+    "2": 44
+  }
+}

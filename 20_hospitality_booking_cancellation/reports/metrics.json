@@ -1,0 +1,50 @@
+{
+  "accuracy": 0.725,
+  "confusion_matrix": [
+    [
+      9,
+      7
+    ],
+    [
+      4,
+      20
+    ]
+  ],
+  "classification_report": {
+    "0": {
+      "precision": 0.6923076923076923,
+      "recall": 0.5625,
+      "f1-score": 0.6206896551724138,
+      "support": 16.0
+    },
+    "1": {
+      "precision": 0.7407407407407407,
+      "recall": 0.8333333333333334,
+      "f1-score": 0.7843137254901961,
+      "support": 24.0
+    },
+    "accuracy": 0.725,
+    "macro avg": {
+      "precision": 0.7165242165242165,
+      "recall": 0.6979166666666667,
+      "f1-score": 0.7025016903313049,
+      "support": 40.0
+    },
+    "weighted avg": {
+      "precision": 0.7213675213675214,
+      "recall": 0.725,
+      "f1-score": 0.7188640973630832,
+      "support": 40.0
+    }
+  },
+  "rows": 180,
+  "features": [
+    "lead_time_days",
+    "average_daily_rate",
+    "special_requests",
+    "previous_cancellations",
+    "weekend_nights",
+    "deposit_paid",
+    "customer_history_score"
+  ]
+}

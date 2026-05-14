@@ -1,0 +1,49 @@
+{
+  "rows": 180,
+  "features": [
+    "watch_time_minutes",
+    "likes",
+    "shares",
+    "creator_followed",
+    "category_match",
+    "freshness_days",
+    "completion_rate"
+  ],
+  "sample_recommendations": {
+    "0": [
+      69,
+      158,
+      176,
+      87,
+      67
+    ],
+    "1": [
+      157,
+      103,
+      79,
+      23,
+      114
+    ],
+    "2": [
+      83,
+      51,
+      34,
+      66,
+      163
+    ],
+    "3": [
+      167,
+      5,
+      31,
+      79,
+      133
+    ],
+    "4": [
+      63,
+      125,
+      16,
+      111,
+      156
+    ]
+  }
+}

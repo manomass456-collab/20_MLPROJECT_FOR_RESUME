@@ -1,0 +1,15 @@
+{
+  "mae": 29.787435967589822,
+  "rmse": 37.35576112674708,
+  "r2": 0.8391526973487056,
+  "rows": 180,
+  "features": [
+    "pm25",
+    "pm10",
+    "no2",
+    "so2",
+    "wind_speed",
+    "temperature",
+    "traffic_density"
+  ]
+}

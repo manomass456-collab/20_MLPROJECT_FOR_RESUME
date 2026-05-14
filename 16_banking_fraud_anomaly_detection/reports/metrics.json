@@ -1,0 +1,39 @@
+{
+  "rows": 180,
+  "features": [
+    "transaction_amount",
+    "merchant_risk",
+    "hour_of_day",
+    "customer_age_days",
+    "transactions_last_hour",
+    "distance_from_home_km",
+    "device_trust_score"
+  ],
+  "classification_report_against_synthetic_labels": {
+    "0": {
+      "precision": 0.030303030303030304,
+      "recall": 1.0,
+      "f1-score": 0.058823529411764705,
+      "support": 5.0
+    },
+    "1": {
+      "precision": 1.0,
+      "recall": 0.08571428571428572,
+      "f1-score": 0.15789473684210525,
+      "support": 175.0
+    },
+    "accuracy": 0.1111111111111111,
+    "macro avg": {
+      "precision": 0.5151515151515151,
+      "recall": 0.5428571428571428,
+      "f1-score": 0.10835913312693499,
+      "support": 180.0
+    },
+    "weighted avg": {
+      "precision": 0.9730639730639731,
+      "recall": 0.1111111111111111,
+      "f1-score": 0.15514275885792914,
+      "support": 180.0
+    }
+  }
+}
